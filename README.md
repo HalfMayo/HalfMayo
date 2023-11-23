@@ -1,16 +1,20 @@
-### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="testa2.png">
+ <source media="(prefers-color-scheme: light)" srcset="testa2.png">
+ <img alt="YOUR-ALT-TEXT" src="testa2.png">
+</picture>
 
-**HalfMayo/HalfMayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hi, I'm Barb! 👋
+I'm a **React developer** and an **illustrator**.  
+*How and why did you start programming?* you may ask. Good question.  
+Well, in the beginning it wasn't something I took too seriously. I learned C# and Unity because some friends needed a programmer for a game. But then I realized, *Hey! I'm actually good at it. Let's take it to the next level*.  
+So I started to study Js and all the regular front-end stuff, with the goal of becoming skilled enough to build useful apps initially for myself and then for the rest of the world.  
+And now here I am, arranging hooks and effects to create wonders!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+The biggest project I'm working on at the moment is a **DM Digital Screen** for Pathfinder 2nd edition. If you're interested in contributing DB building, please do not hesitate to contact me!
 
+#### Languages currently known: React/Preact, JS, HTML/CSS (w/Tailwind), C#
+#### Technologies currently used: VSC, Clip Studio Paint, Adobe Creative Suite (Photoshop, Illustrator, InDesign), Blender, Unity. All my projects are deployed with Netlify.
